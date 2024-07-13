@@ -21,11 +21,13 @@ scrape data from multiple pages and includes error handling to manage potential 
 - `scrape_quotes.py`: The main script for scraping quotes, authors, and tags from [Quotes to Scrape](http://quotes.toscrape.com).
 
 ### Sample Output
-"Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs
-Tags: life, inspirational
+`"Your time is limited, so don't waste it living someone's life." - Steve Jobs`<br>
+`Tags: life, inspirational`
+
 --------------------------------------------------------------------------------
-"It is our choices, Harry, that show what we truly are, far more than our abilities." - J.K. Rowling
-Tags: abilities, choices
+`"It is our choices, Harry, that show what we truly are, far more than our abilities." - J.K. Rowling` <br>
+`Tags: abilities, choices`
+
 --------------------------------------------------------------------------------
 ...
 
@@ -46,12 +48,14 @@ This project involves scraping book titles, prices, and availability information
 - `scrape_books.py`: The main script for scraping book information from the homepage of [Books to Scrape](http://books.toscrape.com).
 
 ### Sample Output
-Title: A Light in the ...
-Price: £51.77
+Title: A Light in the ...<br>
+Price: £51.77<br>
 Availability: In stock (22 available)
+
 --------------------------------------------------------------------------------
-Title: Tipping the Velvet
-Price: £53.74
+Title: Tipping the Velvet<br>
+Price: £53.74<br>
 Availability: In stock (20 available)
+
 --------------------------------------------------------------------------------
 ...
