@@ -1,7 +1,3 @@
-Here's a more detailed and elaborative README for the `scrape_quotes.py` script, focusing on the purpose, functionality, and usage of the script:
-
----
-
 # Web Scraping Project: Quotes Scraper
 
 ## Overview
@@ -27,7 +23,7 @@ web-scraping/
 - **`scripts/scrape_quotes.py`**: The main script for scraping quotes from the website.
 - **`data/quotes.csv`**: The output CSV file containing the scraped quotes.
 - **`README.md`**: This file, providing an overview and instructions for the project.
-- **requirements.txt**: This file lists all the dependencies required to run the script
+- **`requirements.txt`**: This file lists all the dependencies required to run the script
 
 ## Setup
 
@@ -87,8 +83,8 @@ To use the script, follow these steps:
 
 1. **Clone the Repository**: 
     ```sh
-    git clone https://github.com/yourusername/web-scraping.git
-    cd web-scraping
+    git clone https://github.com/mrowurakwarteng/Web-Scrapping/web-scraping-with-Beautiful-Soup.git
+    cd web-scraping-with-Beautiful-Soup
     ```
 
 2. **Install Required Packages**: Ensure you have the necessary Python packages installed.
